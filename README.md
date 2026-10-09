@@ -1,4 +1,4 @@
-# Mohammed-Hesham# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on AI agents and workflow automation projects (like my n8n-based Expense Tracker)<br>👯 I’m looking to collaborate on web apps and AI/automation projects<br>🤝 I’m looking for help with breaking into my first software/AI developer role and growing my open-source portfolio<br>🌱 I’m currently learning AI agents, autonomous systems and deeper Python<br>💬 Ask me about PHP, MySQL, JavaScript, web development and building with n8n<br>⚡ Fun fact: I started in Commerce before switching to code
 
 
